@@ -1,15 +1,15 @@
 ---
 title: CIRENG NASI
 date: 2020-06-30T08:20:00.164Z
-description: >
-  Sebagai Ibu rumah tangga, nasi sisa kadang bikin dilema. Dibuang sayang,
-  disimpan sudah ngga bagus
-
-
-  Nah, yuk coba kita mengolah nasi sisa menjadi makanan yang enak dan bisa menjadi ide usaha rumahan anda juga.”
+description: |
+  Ilmu Usaha
 image: img/rengcinasi.jpg
 ---
-### **Bahan-bahan yang dibutuhkan:** 
+Sebagai Ibu rumah tangga, nasi sisa kadang bikin dilema. Dibuang sayang, disimpan sudah ngga bagus
+
+Nah, yuk coba kita mengolah nasi sisa menjadi makanan yang enak dan bisa menjadi ide usaha rumahan anda juga.”
+<br>
+### **Bahan-bahan yang dibutuhkan:**
 
 * 1 piring nasi putih (nasi sisa juga bisa digunakan) 
 * 10 sendok makan tepung tapioka 
@@ -22,8 +22,6 @@ image: img/rengcinasi.jpg
 * Asam secukupnya 
 * Gula Merah secukupnya 
 * Cabai sesuai selera
-
-
 
 #### Cara Membuat Cireng Nasi
 
