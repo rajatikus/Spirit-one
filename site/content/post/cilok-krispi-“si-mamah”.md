@@ -2,7 +2,7 @@
 title: CILOK KRISPI  “SI MAMAH”
 date: 2020-06-29T16:27:35.293Z
 description: |
-  Cilok mudah, gampang buat jualan. 
+  Ilmu Usaha
 image: img/cilok1.jpg
 ---
 ### Resep special buat sahabat AMAAN
@@ -19,11 +19,9 @@ image: img/cilok1.jpg
 * 150 ml air panas / sesuai kebutuhan.
 * Saos dan mayones untuk cocolan
 
+![cilok krispi](img/cilok1.jpg "cilok krispi")
 
-
-![](img/cilok1.jpg)
-
-#### Langkah membuat Cilok crispy: 
+#### Langkah membuat Cilok crispy:
 
 1. Campur tepung tapioka tepung terigu tepung beras penyedap rasa dan garam aduk sampai rata 
 2. Tambah kan air panas pada adonan aduk dengan spatula sampai panas nya hilang lalu aduk dengan tangan sampai kalis Cetak bulat ukuran menurut selera bri isi. 
